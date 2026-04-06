@@ -1,4 +1,5 @@
-# cryptoDataManagement
-rapid cpp library for large dataset parsing or fast big dataset download
+# Crypto Data Management Library
+This is a rapid and efficient library for cpp, made for crypto syntaxes (refer to binance docs), allow fast data parsing and downloads
 
-# commands
+
+# Commands
